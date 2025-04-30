@@ -12,13 +12,6 @@
 - **Beginner-Friendly**: Explains concepts in simple terms.
 - **Customizable**: Allows users to ask questions, get explanations and receive learning recommendations.
 
----
-
-## Prerequisites
-**Dependencies**: Install the required Python libraries:
-   ```bash
-   pip install gradio groq
-
 ## Usage
 
 1. **Input Your Details**:
@@ -36,4 +29,3 @@
 
 - [Gradio](https://gradio.app/).
 - [Groq API](https://groq.com/).
-.
