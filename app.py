@@ -674,7 +674,7 @@ def create_chatbot():
                     plan_output = gr.Markdown(label="Personalized Study Plan")
         
         gr.HTML("""<div class="footer">
-            AI Teaching Assistant Pro | Version 2.0 | © 2025 | Powered by Groq AI
+            AI Teaching Assistant | Version 2.0 | © 2025 | Powered by Groq AI
         </div>""")
         
         # Event handlers
