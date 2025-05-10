@@ -2,7 +2,7 @@
 A professional, personalized AI Teaching Assistant for learning Python, Data Science, and Artificial Intelligence skills which is powered by Groq AI.
 
 <p align="center">
-  <img src="Ai teaching assistant.png" alt="AI Teaching Assistant Pro Dashboard" width="600"/>
+  <img src="teaching assistant.png" alt="AI Teaching Assistant Dashboard" width="600"/>
 </p>
 
 ## 🌟 Features
